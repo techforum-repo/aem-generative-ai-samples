@@ -1,1 +1,1 @@
-# myailearnings
+> **This repository has moved.** It now lives in [`ai-experiments/aem-generative-ai-samples`](https://github.com/techforum-repo/ai-experiments/tree/main/aem-generative-ai-samples), with its full commit history. This repo is archived and read-only.# myailearnings
